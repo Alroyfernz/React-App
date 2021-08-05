@@ -15,7 +15,7 @@ const toggle=()=>{
     setIsOpen(!isOpen)
 }
 
-const id='footer';
+
     return (
         <>
             
